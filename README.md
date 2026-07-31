@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm MD ARSHAD RAZA
 
-<!--
-**mdarshadraza7/mdarshadraza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst from India
 
-Here are some ideas to get you started:
+I am a Computer Science (AI & ML) undergraduate passionate about Data Analytics, SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to discover insights and build dashboards that support business decisions.
+
+Currently learning
+
+- Advanced SQL
+- Power BI
+- Python for Data Analysis
+- Statistics
+- Data Visualization
+
+---
+
+## Skills
+
+Python
+
+SQL
+
+Microsoft Excel
+
+Power BI
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+PostgreSQL
+
+Git
+
+GitHub
+
+---
+
+## Currently Working On
+
+Data Analytics Projects
+
+Power BI Dashboards
+
+SQL Practice
+
+Portfolio Development
+
+---
+
+## Connect With Me
+
+LinkedIn
+
+Email
+
+---
+
+## Fun Fact
+
+I love transforming raw data into meaningful insights.
