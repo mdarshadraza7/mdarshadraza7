@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlwcjR5MXZuaGZ3OHkxZjhtNWRocWVtMmQ1NWp5cnEwbmF0MjFyNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/200.webp" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5aW5qODN6aHN6NGptcmI0eXVldWhkYmgzeWFsNThwaDV1Ynp4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="300" />
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
   <a href="https://github.com/mdarshadraza7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mdarshadraza7">
+  <a href="https://www.linkedin.com/in/mdarshadraza7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mdarshadrazabgp20@gmail.com">
@@ -158,7 +158,13 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
   <b>I enjoy turning **raw data into meaningful insights and clear visual stories**. 📊</b>
 </p>
 
+###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/mdarshadraza7/mdarshadraza7/snake-output/snake.svg" alt="Snake animation" />
+
+
+###
+---
 ###
 
 <picture data-importer="pacman">
