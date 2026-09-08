@@ -26,49 +26,64 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
 
 ## 🔭 Currently Working On
 
-* 📊 Data Analytics Projects
-* 📈 Power BI Dashboards
-* 🗄️ SQL & PostgreSQL Projects
-* 🐍 Python Data Analysis
-* 💼 Building my Data Analytics Portfolio
+- 🏗️ **Airbnb End-to-End Data Pipeline** — building a full ELT pipeline using **dbt, Snowflake & AWS**, with incremental loads, metadata-driven design, and star schema modeling
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced SQL
-* Power BI & DAX
-* Power Query
-* Python for Data Analysis
-* Statistics for Data Analytics
-* Data Visualization
-* Business Analytics
+- **Analytics Engineering** — dbt (Models, Snapshots, Tests, Jinja Macros), ELT Architecture, Modern Data Stack
+- **Microsoft Fabric** — Lakehouse, Data Pipelines, Dataflows Gen2
+- **Dimensional Modeling** — Star Schema, SCD Type 1 & 2, Medallion Architecture (Bronze/Silver/Gold)
+- **Data Warehousing** — Snowflake, Delta Lake
+- **Orchestration** — Apache Airflow
 
 ---
-
 ## 🛠️ Skills & Technologies
 
-### 📊 Data Analytics
-
+### 💻 Languages & Querying
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 </p>
 
 ### 🐍 Python Libraries
-
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Database & Tools
+### 🏗️ Data Warehousing & Transformation
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-3F87F5?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
+### 📊 BI & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
