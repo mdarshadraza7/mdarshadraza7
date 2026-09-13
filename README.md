@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+MD+ARSHAD+RAZA;Data+Analyst+%7C+•SQL+%7C+•Python+%7C+•Power+BI;Turning+Data+Into+Actionable+Insights+%F0%9F%93%8A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+MD+ARSHAD+RAZA;Data+Analyst+%7C+Analytics+Engineer;SQL+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+Power+BI;Microsoft+Fabric+%E2%80%A2+Lakehouse+%E2%80%A2+Data+Factory;Turning+Data+Into+Actionable+Insights" />
 </h1>
 
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
+<h3 align="center">Data Analyst | Analytics Engineer | SQL • Python • Microsoft Fabric • Power BI</h3>
 
 ---
 <p align="center">
