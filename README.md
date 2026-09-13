@@ -33,12 +33,13 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
 ## 🌱 Currently Learning
 
 - **Analytics Engineering** — dbt (Models, Snapshots, Tests, Jinja Macros), ELT Architecture, Modern Data Stack
-- **Microsoft Fabric** — Lakehouse, Data Pipelines, Dataflows Gen2
+- **Microsoft Fabric** — Lakehouse, Data Pipelines, Dataflows Gen2, Synapse Data Warehouse
 - **Dimensional Modeling** — Star Schema, SCD Type 1 & 2, Medallion Architecture (Bronze/Silver/Gold)
-- **Data Warehousing** — Snowflake, Delta Lake
-- **Orchestration** — Apache Airflow
+- **Data Warehousing** — OneLake, Lakehouse (Delta Tables)
+- **Orchestration** — Data Factory Pipelines (Fabric)
 
 ---
+
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages & Querying
@@ -46,6 +47,8 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query%20(M)-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 </p>
 
@@ -58,13 +61,22 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
 
 ### 🏗️ Data Warehousing & Transformation
 <p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-3F87F5?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OneLake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lakehouse-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synapse%20Data%20Warehouse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataflow%20Gen2-50E6FF?style=for-the-badge&logo=microsoftazure&logoColor=black" />
+  <img src="https://img.shields.io/badge/Notebooks%20(PySpark)-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+
+</p>
+
+### 📐 Data Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/Star%20Schema-4B0082?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dimensional%20Modeling-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic%20Model-217346?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 ### 📊 BI & Visualization
