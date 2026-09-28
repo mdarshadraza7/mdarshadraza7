@@ -170,10 +170,6 @@ I enjoy working with raw data to uncover patterns, identify trends, build intera
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdarshadraza7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mdarshadraza7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
